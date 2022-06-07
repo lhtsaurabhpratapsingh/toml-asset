@@ -43,6 +43,7 @@ app.get('/.well-known/stellar.toml', (req, res, next) => {
         }
     })
     })
+    // endpoint
 
     // app.get('/auth', (req,res)=>{
     //   res.json({
